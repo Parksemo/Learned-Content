@@ -1,0 +1,3 @@
+y_example_text = ["Sports", "Not sports","Sports","Sports","Not sports"]
+y_example = [1 if c=="Sports" else 0 for c in y_example_text ]
+text_example = ["A great game game", "The The election was over","Very clean game match","A clean but forgettable game game","It was a close election", ]
